@@ -1,0 +1,25 @@
+{
+  "idempotencyKey": "replace-with-a-stable-business-id",
+  "title": "示例短剧",
+  "description": "替换图片 Key 和已转码成功的视频 ID 后使用",
+  "coverImageKey": "replace-with-cover-image-key",
+  "headerImages": [
+    {
+      "imageKey": "replace-with-header-image-key"
+    }
+  ],
+  "episodes": [
+    {
+      "episodeIndex": 0,
+      "videoId": "replace-with-episode-0-video-id",
+      "title": "第一集",
+      "moduleFeeType": 1
+    },
+    {
+      "episodeIndex": 1,
+      "videoId": "replace-with-episode-1-video-id",
+      "title": "第二集",
+      "moduleFeeType": 2
+    }
+  ]
+}
